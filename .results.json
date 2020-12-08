@@ -1,0 +1,162 @@
+{
+  "stats": {
+    "suites": 4,
+    "tests": 8,
+    "passes": 8,
+    "pending": 0,
+    "failures": 0,
+    "start": "2020-12-08T20:37:00.125Z",
+    "end": "2020-12-08T20:37:00.643Z",
+    "duration": 518
+  },
+  "tests": [
+    {
+      "title": "is set as Scuber",
+      "fullTitle": "index.js companyName is set as Scuber",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-variables-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "is defined as a const",
+      "fullTitle": "index.js companyName is defined as a const",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-variables-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "is declared as equal to Chelsea",
+      "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-variables-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "does not raise error if the mostProfitableNeighborhood is changed",
+      "fullTitle": "index.js mostProfitableNeighborhood does not raise error if the mostProfitableNeighborhood is changed",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-variables-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "is not defined as a const",
+      "fullTitle": "index.js mostProfitableNeighborhood is not defined as a const",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-variables-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "is declared as equal to Susan Smith",
+      "fullTitle": "index.js companyCeo is declared as equal to Susan Smith",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-variables-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "does not raise error if the companyCeo is changed",
+      "fullTitle": "index.js companyCeo does not raise error if the companyCeo is changed",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-variables-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "is not defined as a const",
+      "fullTitle": "index.js companyCeo is not defined as a const",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-variables-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "is set as Scuber",
+      "fullTitle": "index.js companyName is set as Scuber",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-variables-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "is defined as a const",
+      "fullTitle": "index.js companyName is defined as a const",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-variables-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "is declared as equal to Chelsea",
+      "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-variables-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "does not raise error if the mostProfitableNeighborhood is changed",
+      "fullTitle": "index.js mostProfitableNeighborhood does not raise error if the mostProfitableNeighborhood is changed",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-variables-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "is not defined as a const",
+      "fullTitle": "index.js mostProfitableNeighborhood is not defined as a const",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-variables-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "is declared as equal to Susan Smith",
+      "fullTitle": "index.js companyCeo is declared as equal to Susan Smith",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-variables-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "does not raise error if the companyCeo is changed",
+      "fullTitle": "index.js companyCeo does not raise error if the companyCeo is changed",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-variables-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "is not defined as a const",
+      "fullTitle": "index.js companyCeo is not defined as a const",
+      "file": "/home/brockbyrd/code/labs/fewpjs-js-fundamentals-variables-lab-onl01-seng-ft-090820/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
